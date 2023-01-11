@@ -1,1 +1,6 @@
-node_modules/
+# 忽略z开头的任何文件
+z*
+# 忽略.env文件
+.env
+# 忽略顶级目录artifacts
+artifacts/
